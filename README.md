@@ -42,4 +42,6 @@ It assumes that truthful, consistent information will **emerge through convergen
 3. "Einstein's theory was published in the early 20th century."
 
 # Result: High semantic agreement and SRL alignment → High Quorum score
+```
 
+**Author**: Alexandra Ciupahina
